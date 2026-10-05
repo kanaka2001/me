@@ -49,6 +49,7 @@ Don Bosco Institute of Technology, Bengaluru
 | 📸 **Instagram** | <a href="https://instagram.com/awssbg_dbit" target="_blank">@awssbg_dbit</a> |
 | 🤝 **Meetup** | <a href="https://www.meetup.com/aws-student-builders-group-dbit" target="_blank">AWS Student Builders Group DBIT</a> |
 | 💼 **LinkedIn** | <a href="https://www.linkedin.com/company/aws-student-builders-group-dbit" target="_blank">AWS Student Builders Group DBIT</a> |
+| 🌐 **Website** | <a href="https://awsevents.dbit.edu.in/" target="_blank">awsevents.dbit.edu.in</a> — stay updated on upcoming events |
 
 ---
 

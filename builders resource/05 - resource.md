@@ -59,7 +59,7 @@ Sign up on **AWS Builder Center** using the workshop link to unlock up to **$579
 | 🤝 **Meetup** | Upcoming events and cloud meetups | <a href="https://www.meetup.com/aws-student-builders-group-dbit" target="_blank">Join</a> |
 | 📘 **Facebook** | Community posts and event announcements | <a href="https://www.facebook.com/awssbgdbit" target="_blank">Follow</a> |
 | ✖️ **X (Twitter)** | Quick updates and AWS news | <a href="https://x.com/awssbg_dbit" target="_blank">Follow</a> |
-| 🌐 **Website** | All events and registration | <a href="https://awsevents.dbit.edu.in" target="_blank">awsevents.dbit.edu.in</a> |
+| 🌐 **Website** | All events and registration | <a href="https://awsevents.dbit.edu.in/" target="_blank">awsevents.dbit.edu.in</a> |
 
 ---
 

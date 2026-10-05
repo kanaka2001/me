@@ -51,6 +51,12 @@ He currently helps students **learn, build, collaborate, and grow together** in 
 
 Feel free to reach out — whether you have questions from the workshop, want to collaborate, or just want to stay connected in the tech community.
 
+<div align="center">
+
+<img src="../images/Speaker Social.png" alt="Madhu T K — Social Handles" width="400" />
+
+</div>
+
 | Platform | Handle | Link |
 |---|---|---|
 | 💼 **LinkedIn** | @madhu077 | <a href="https://linkedin.com/in/madhu077" target="_blank">linkedin.com/in/madhu077</a> |
@@ -75,6 +81,8 @@ The **AWS Student Builders Group at DBIT** is a student-led community that bring
 > - 🎤 Hosts industry talks and certification prep sessions
 > - 🤝 Builds a peer learning network for AWS and AI/ML
 > - 🌐 Connects students with the global AWS builder community
+>
+> 📅 **Stay updated on upcoming events:** <a href="https://awsevents.dbit.edu.in/" target="_blank">awsevents.dbit.edu.in</a>
 
 ---
 
