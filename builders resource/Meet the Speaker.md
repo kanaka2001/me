@@ -1,0 +1,59 @@
+# Meet the Speaker
+
+**AWS Student Builder Group – DBIT | HexaVerse CloudFest '26**
+
+---
+
+## Madhu T K
+
+**Student Builder Group Leader**
+AWS Student Builders Group, DBIT
+
+---
+
+## 👨‍💻 About
+
+**Madhu T K** is a Computer Science & Engineering student at **Don Bosco Institute of Technology (DBIT), Bengaluru**, and serves as the **Student Builder Group Leader at AWS Student Builders Group, DBIT**.
+
+He is passionate about **Cloud Computing, AWS, DevOps, Artificial Intelligence, and backend technologies** — with a strong focus on learning through hands-on projects and real-world applications.
+
+As a student community leader, Madhu has been actively involved in building and leading a student-driven technology community — organising technical events, workshops, interactive learning initiatives, and cloud-focused activities for students at DBIT.
+
+He currently helps students **learn, build, collaborate, and grow together** in the cloud and technology ecosystem through the AWS Student Builders Group.
+
+---
+
+## 🎯 Areas of Interest
+
+| Domain | Focus |
+|---|---|
+| ☁️ Cloud Computing | AWS services, architecture, and best practices |
+| 🤖 Artificial Intelligence | ML pipelines, Generative AI, Amazon Bedrock |
+| ⚙️ DevOps | CI/CD, Infrastructure as Code, automation |
+| 🔧 Backend Technologies | APIs, server-side development, cloud-native apps |
+| 🏛️ Community Building | Student tech communities, events, workshops |
+
+---
+
+## 🤝 Connect with Madhu
+
+Feel free to reach out — whether you have questions from the workshop, want to collaborate, or just want to stay connected in the tech community.
+
+| Platform | Handle | Link |
+|---|---|---|
+| 💼 LinkedIn | @madhu077 | https://linkedin.com/in/madhu077 |
+| 📸 Instagram | @madhu_kanaka_77 | https://instagram.com/madhu_kanaka_77 |
+| 🐦 X (Twitter) | @Madhutk2005 | https://x.com/Madhutk2005 |
+
+---
+
+## 🏛️ AWS Student Builders Group — DBIT
+
+The **AWS Student Builders Group at DBIT** is a student-led community that brings together builders, learners, and cloud enthusiasts on campus.
+
+> **What the group does:**
+>
+> - Organises hands-on cloud workshops and lab events
+> - Hosts industry talks and certification prep sessions
+> - Builds a peer learning network for AWS and AI/ML
+> - Connects students with the global AWS builder community
