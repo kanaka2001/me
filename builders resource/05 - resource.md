@@ -2,6 +2,8 @@
 
 <img src="../images/AWS Student Builder Group_RGB_Program Icon_Blue.png" alt="AWS Student Builder Group Logo" width="100" />
 
+&nbsp;&nbsp;&nbsp;
+
 <img src="https://camo.githubusercontent.com/9ae63dc851654d20ba8c09ac7f6c076dff2912638033cdb0f439af6bd6652017/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39332f416d617a6f6e5f5765625f53657276696365735f4c6f676f2e737667" alt="Amazon Web Services" width="100" />
 
 # Workshop Resources & Next Steps
@@ -30,9 +32,9 @@ Sign up on **AWS Builder Center** using the workshop link to unlock up to **$579
 
 **Sign-up link:** <a href="https://bit.ly/450cFtS" target="_blank">**https://bit.ly/450cFtS**</a>
 
-<img src="../images/qr-builder-center.png" alt="QR Code — AWS Builder Center Sign Up" width="180" />
+<img src="../images/qr-builder-center.png" alt="QR Code — AWS Builder Center Sign Up" width="150" />
 
-> No credit card needed. Verification takes a few minutes via SheerID.
+*No credit card needed. Verification takes a few minutes via SheerID.*
 
 </div>
 
@@ -67,13 +69,13 @@ Sign up on **AWS Builder Center** using the workshop link to unlock up to **$579
 
 <div align="center">
 
-> You just completed a two-day hands-on AWS workshop. That deserves to be shared.
->
-> 📸 Post a photo from the workshop and tag us: **@awssbg_dbit** on Instagram
->
-> **#AWSBuildersLab #HexaVerse26 #CloudComputing #MLOps**
->
-> We will reshare the best posts from the community! 🎉
+**You just completed a two-day hands-on AWS workshop. That deserves to be shared.**
+
+📸 Post a photo from the workshop and tag us: **@awssbg_dbit** on Instagram
+
+**#AWSBuildersLab #HexaVerse26 #CloudComputing #MLOps**
+
+*We will reshare the best posts from the community! 🎉*
 
 </div>
 

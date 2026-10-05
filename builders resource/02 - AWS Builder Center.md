@@ -12,7 +12,7 @@
 
 ---
 
-## 🔗 What is AWS Builder Center?
+## 🌐 What is AWS Builder Center?
 
 AWS Builder Center is the official online home for the AWS community — where you learn, build, connect, and grow.
 
@@ -33,9 +33,9 @@ When you sign up and verify your student status, you unlock real rewards:
 |---|---|---|
 | **1** | Sign up + verify student status via SheerID | 1 year Premium AWS Skill Builder — **$449 value** |
 | **2** | Complete your profile (photo + about section) | Activates reward delivery |
-| **3** | Earn 7 badges | $10 in AWS credits |
-| **3** | Earn 14 badges | Additional $20 in AWS credits |
-| **3** | Earn 21 badges | AWS Foundational Certification voucher — **$100 value** |
+| **3a** | Earn 7 badges | $10 in AWS credits |
+| **3b** | Earn 14 badges | Additional $20 in AWS credits |
+| **3c** | Earn 21 badges | AWS Foundational Certification voucher — **$100 value** |
 
 **How to earn badges:**
 
@@ -57,7 +57,7 @@ When you sign up and verify your student status, you unlock real rewards:
 
 **Or scan the QR code:**
 
-<img src="../images/qr-builder-center.png" alt="QR Code — AWS Builder Center Sign Up" width="200" />
+<img src="../images/qr-builder-center.png" alt="QR Code — AWS Builder Center Sign Up" width="150" />
 
 > 📲 Open your phone camera and point it at the QR code — it opens the sign-up page directly.
 
@@ -65,16 +65,9 @@ When you sign up and verify your student status, you unlock real rewards:
 
 ---
 
-## 🖥️ Follow Along Right Now
-
-1. Open <a href="https://bit.ly/450cFtS" target="_blank">**https://bit.ly/450cFtS**</a> on your phone or laptop
-2. Create your **AWS Builder ID** (separate from your AWS Console account)
-3. Start your **student verification** via SheerID
-4. Once verified, explore the **Learn** section and bookmark a course
-
----
-
 ## 📋 Quick Steps: Create Your AWS Builder ID
+
+Follow these steps after opening the sign-up link:
 
 1️⃣ Click the link, click **Sign In**.
 

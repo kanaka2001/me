@@ -14,12 +14,12 @@
 
 AWS certifications are globally recognized credentials that:
 
-| | |
+| Benefit | |
 |---|---|
-| 📄 | Prove your cloud skills to employers and recruiters |
-| 🎓 | Stand out on your resume alongside your degree |
-| 🛠️ | Validate practical, hands-on ability — not just theory |
-| 🚪 | Open doors to internships, placements, and cloud roles |
+| 📄 **Resume boost** | Prove your cloud skills to employers and recruiters |
+| 🎓 **Stand out** | Differentiate yourself alongside your degree |
+| 🛠️ **Hands-on proof** | Validate practical ability — not just theory |
+| 🚪 **Opportunities** | Open doors to internships, placements, and cloud roles |
 
 ---
 
@@ -109,7 +109,7 @@ AWS SBG DBIT occasionally shares free exam voucher opportunities. Don't miss the
 
 **Scan to join on Meetup:**
 
-<img src="../images/qrcode_www.meetup.com.png" alt="QR Code — Join AWS SBG DBIT on Meetup" width="180" />
+<img src="../images/qrcode_www.meetup.com.png" alt="QR Code — Join AWS SBG DBIT on Meetup" width="150" />
 
 <a href="https://www.meetup.com/aws-student-builders-group-dbit" target="_blank">meetup.com/aws-student-builders-group-dbit</a>
 

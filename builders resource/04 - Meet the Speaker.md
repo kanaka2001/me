@@ -25,7 +25,7 @@ AWS SBG — DBIT
 
 ## 👨‍💻 About
 
-**Madhu T K** is a Computer Science & Engineering student at **Don Bosco Institute of Technology (DBIT), Bengaluru**, and serves as the **Student Builder Group Leader at AWS Student Builders Group, DBIT**.
+**Madhu T K** is a Computer Science & Engineering student at **Don Bosco Institute of Technology (DBIT), Bengaluru**, and serves as the **AWS Student Builder Group Leader at AWS Student Builders Group, DBIT**.
 
 He is passionate about **Cloud Computing, AWS, DevOps, Artificial Intelligence, and backend technologies** — with a strong focus on learning through hands-on projects and real-world applications.
 
@@ -67,16 +67,8 @@ Feel free to reach out — whether you have questions from the workshop, want to
 
 ## 🏛️ AWS Student Builders Group — DBIT
 
-<div align="center">
-
-<img src="../images/AWS Student Builder Group_RGB_Program Icon_Blue.png" alt="AWS Student Builder Group Logo" width="110" />
-
-</div>
-
 The **AWS Student Builders Group at DBIT** is a student-led community that brings together builders, learners, and cloud enthusiasts on campus.
 
-> **What the group does:**
->
 > - 🛠️ Organises hands-on cloud workshops and lab events
 > - 🎤 Hosts industry talks and certification prep sessions
 > - 🤝 Builds a peer learning network for AWS and AI/ML
