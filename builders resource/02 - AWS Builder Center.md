@@ -71,3 +71,29 @@ When you sign up and verify your student status, you unlock real rewards:
 2. Create your **AWS Builder ID** (separate from your AWS Console account)
 3. Start your **student verification** via SheerID
 4. Once verified, explore the **Learn** section and bookmark a course
+
+---
+
+## 📋 Quick Steps: Create Your AWS Builder ID
+
+1️⃣ Click the link, click **Sign In**.
+
+2️⃣ Enter your email, full name, and verify the **6-digit code** sent to your inbox.
+
+3️⃣ Create a password and choose a professional, public **alias (username)**.
+
+4️⃣ Select your **student status**.
+
+5️⃣ Find your alias: Click your **profile icon** in the top right ➡️ **My Profile**.
+
+> 📄 For a detailed walkthrough, follow the <a href="https://docs.google.com/document/d/1uZrE1qAwq-5ar_5oLfZmQLV8Q-dpQLOxwyFmIatdfXw/edit?usp=sharing" target="_blank">official documentation</a>.
+
+---
+
+<div align="center">
+
+<a href="./03%20-%20AWS%20Certification.md" target="_blank">
+  <img src="https://img.shields.io/badge/Next%20→-Choose%20Your%20AWS%20Certification%20Path-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Next: Choose Your AWS Certification Path" />
+</a>
+
+</div>

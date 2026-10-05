@@ -7,7 +7,7 @@
 <img src="https://camo.githubusercontent.com/9ae63dc851654d20ba8c09ac7f6c076dff2912638033cdb0f439af6bd6652017/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39332f416d617a6f6e5f5765625f53657276696365735f4c6f676f2e737667" alt="Amazon Web Services" width="120" />
 
 **HexaVerse CloudFest '26**
-AWS Builders Lab — Don Bosco Institute of Technology, Bengaluru
+Don Bosco Institute of Technology, Bengaluru
 
 </div>
 
@@ -15,7 +15,7 @@ AWS Builders Lab — Don Bosco Institute of Technology, Bengaluru
 
 <div align="center">
 
-<img src="../images/Hexaverse final.png" alt="HexaVerse CloudFest '26 Event Banner" width="700" />
+<img src="../images/Hexaverse final.png" alt="HexaVerse CloudFest '26 Event Banner" width="420" />
 
 </div>
 
@@ -42,10 +42,30 @@ AWS Builders Lab — Don Bosco Institute of Technology, Bengaluru
 
 ---
 
+## 🌐 Stay Connected
+
+| Platform | Link |
+|---|---|
+| 📸 **Instagram** | <a href="https://instagram.com/awssbg_dbit" target="_blank">@awssbg_dbit</a> |
+| 🤝 **Meetup** | <a href="https://www.meetup.com/aws-student-builders-group-dbit" target="_blank">AWS Student Builders Group DBIT</a> |
+| 💼 **LinkedIn** | <a href="https://www.linkedin.com/company/aws-student-builders-group-dbit" target="_blank">AWS Student Builders Group DBIT</a> |
+
+---
+
 <div align="center">
 
 *Powered by*
 
 <img src="https://camo.githubusercontent.com/9ae63dc851654d20ba8c09ac7f6c076dff2912638033cdb0f439af6bd6652017/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39332f416d617a6f6e5f5765625f53657276696365735f4c6f676f2e737667" alt="Amazon Web Services" width="100" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="./02%20-%20AWS%20Builder%20Center.md" target="_blank">
+  <img src="https://img.shields.io/badge/Next%20→-Unlock%20Free%20AWS%20Rewards%20on%20Builder%20Center-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Next: Unlock Free AWS Rewards on Builder Center" />
+</a>
 
 </div>

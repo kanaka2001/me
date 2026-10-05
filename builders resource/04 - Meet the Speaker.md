@@ -16,8 +16,8 @@
 
 ## Madhu T K
 
-**Student Builder Group Leader**
-AWS Student Builders Group, DBIT
+**AWS Student Builder Group Leader**
+AWS SBG — DBIT
 
 </div>
 
@@ -75,3 +75,13 @@ The **AWS Student Builders Group at DBIT** is a student-led community that bring
 > - 🎤 Hosts industry talks and certification prep sessions
 > - 🤝 Builds a peer learning network for AWS and AI/ML
 > - 🌐 Connects students with the global AWS builder community
+
+---
+
+<div align="center">
+
+<a href="./05%20-%20resource.md" target="_blank">
+  <img src="https://img.shields.io/badge/Next%20→-Your%20Resources%20%26%2030--Day%20Action%20Plan-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Next: Your Resources & 30-Day Action Plan" />
+</a>
+
+</div>

@@ -40,12 +40,12 @@ Sign up on **AWS Builder Center** using the workshop link to unlock up to **$579
 
 ## 🚀 Your Next 30 Days
 
-| Week | Suggested Action |
-|---|---|
-| **Week 1** | Start the Cloud Practitioner learning path on <a href="https://skillbuilder.aws" target="_blank">AWS Skill Builder</a> |
-| **Week 2** | Re-do the S3 + EC2 labs on your own — without the handbook |
-| **Week 3** | Build a PartyRock app and share it with your batch |
-| **Week 4** | Take a full practice exam on <a href="https://skillbuilder.aws" target="_blank">AWS Skill Builder</a> |
+| Week | Focus | Action |
+|---|---|---|
+| **Week 1** | Get set up | Sign up on AWS Builder Center → verify student status → explore <a href="https://skillbuilder.aws" target="_blank">AWS Skill Builder</a> |
+| **Week 2** | Start learning | Begin the **AWS Cloud Practitioner** learning path on Skill Builder |
+| **Week 3** | Go hands-on | Log in to the <a href="https://aws.amazon.com/free" target="_blank">AWS Free Tier</a> and try launching an EC2 instance or S3 bucket |
+| **Week 4** | Earn & test | Earn community badges on Builder Center + take a practice exam on Skill Builder |
 
 ---
 
