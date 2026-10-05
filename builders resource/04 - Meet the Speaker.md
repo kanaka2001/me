@@ -80,7 +80,7 @@ The **AWS Student Builders Group at DBIT** is a student-led community that bring
 
 <div align="center">
 
-<a href="./05%20-%20resource.md" target="_blank">
+<a href="./05%20-%20resource.md">
   <img src="https://img.shields.io/badge/Next%20→-Your%20Resources%20%26%2030--Day%20Action%20Plan-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Next: Your Resources & 30-Day Action Plan" />
 </a>
 

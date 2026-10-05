@@ -64,7 +64,7 @@ Don Bosco Institute of Technology, Bengaluru
 
 <div align="center">
 
-<a href="./02%20-%20AWS%20Builder%20Center.md" target="_blank">
+<a href="./02%20-%20AWS%20Builder%20Center.md">
   <img src="https://img.shields.io/badge/Next%20→-Unlock%20Free%20AWS%20Rewards%20on%20Builder%20Center-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Next: Unlock Free AWS Rewards on Builder Center" />
 </a>
 

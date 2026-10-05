@@ -92,7 +92,7 @@ When you sign up and verify your student status, you unlock real rewards:
 
 <div align="center">
 
-<a href="./03%20-%20AWS%20Certification.md" target="_blank">
+<a href="./03%20-%20AWS%20Certification.md">
   <img src="https://img.shields.io/badge/Next%20→-Choose%20Your%20AWS%20Certification%20Path-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Next: Choose Your AWS Certification Path" />
 </a>
 

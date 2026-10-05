@@ -119,7 +119,7 @@ AWS SBG DBIT occasionally shares free exam voucher opportunities. Don't miss the
 
 <div align="center">
 
-<a href="./04%20-%20Meet%20the%20Speaker.md" target="_blank">
+<a href="./04%20-%20Meet%20the%20Speaker.md">
   <img src="https://img.shields.io/badge/Next%20→-Meet%20the%20Speaker%20Behind%20This%20Workshop-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Next: Meet the Speaker Behind This Workshop" />
 </a>
 
