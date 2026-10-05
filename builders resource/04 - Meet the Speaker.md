@@ -1,15 +1,25 @@
+<div align="center">
+
+<img src="../images/AWS Student Builder Group_RGB_Program Icon_Blue.png" alt="AWS Student Builder Group Logo" width="100" />
+
 # Meet the Speaker
 
 **AWS Student Builder Group – DBIT | HexaVerse CloudFest '26**
 
+</div>
+
 ---
+
+<div align="center">
+
+<img src="../images/Speaker Image.jpeg" alt="Madhu T K — Student Builder Group Leader" width="220" />
 
 ## Madhu T K
 
-<img src="../Speaker Image.jpeg" alt="Madhu T K — Student Builder Group Leader" width="200" />
-
 **Student Builder Group Leader**
 AWS Student Builders Group, DBIT
+
+</div>
 
 ---
 
@@ -29,11 +39,11 @@ He currently helps students **learn, build, collaborate, and grow together** in 
 
 | Domain | Focus |
 |---|---|
-| ☁️ Cloud Computing | AWS services, architecture, and best practices |
-| 🤖 Artificial Intelligence | ML pipelines, Generative AI, Amazon Bedrock |
-| ⚙️ DevOps | CI/CD, Infrastructure as Code, automation |
-| 🔧 Backend Technologies | APIs, server-side development, cloud-native apps |
-| 🏛️ Community Building | Student tech communities, events, workshops |
+| ☁️ **Cloud Computing** | AWS services, architecture, and best practices |
+| 🤖 **Artificial Intelligence** | ML pipelines, Generative AI, Amazon Bedrock |
+| ⚙️ **DevOps** | CI/CD, Infrastructure as Code, automation |
+| 🔧 **Backend Technologies** | APIs, server-side development, cloud-native apps |
+| 🏛️ **Community Building** | Student tech communities, events, workshops |
 
 ---
 
@@ -43,21 +53,25 @@ Feel free to reach out — whether you have questions from the workshop, want to
 
 | Platform | Handle | Link |
 |---|---|---|
-| 💼 LinkedIn | @madhu077 | <a href="https://linkedin.com/in/madhu077" target="_blank">linkedin.com/in/madhu077</a> |
-| 📸 Instagram | @madhu_kanaka_77 | <a href="https://instagram.com/madhu_kanaka_77" target="_blank">instagram.com/madhu_kanaka_77</a> |
-| 🐦 X (Twitter) | @Madhutk2005 | <a href="https://x.com/Madhutk2005" target="_blank">x.com/Madhutk2005</a> |
+| 💼 **LinkedIn** | @madhu077 | <a href="https://linkedin.com/in/madhu077" target="_blank">linkedin.com/in/madhu077</a> |
+| 📸 **Instagram** | @madhu_kanaka_77 | <a href="https://instagram.com/madhu_kanaka_77" target="_blank">instagram.com/madhu_kanaka_77</a> |
+| 🐦 **X (Twitter)** | @Madhutk2005 | <a href="https://x.com/Madhutk2005" target="_blank">x.com/Madhutk2005</a> |
 
 ---
 
 ## 🏛️ AWS Student Builders Group — DBIT
 
-<img src="../AWS Student Builder Group_RGB_Program Icon_Blue.png" alt="AWS Student Builder Group Logo" width="130" />
+<div align="center">
+
+<img src="../images/AWS Student Builder Group_RGB_Program Icon_Blue.png" alt="AWS Student Builder Group Logo" width="110" />
+
+</div>
 
 The **AWS Student Builders Group at DBIT** is a student-led community that brings together builders, learners, and cloud enthusiasts on campus.
 
 > **What the group does:**
 >
-> - Organises hands-on cloud workshops and lab events
-> - Hosts industry talks and certification prep sessions
-> - Builds a peer learning network for AWS and AI/ML
-> - Connects students with the global AWS builder community
+> - 🛠️ Organises hands-on cloud workshops and lab events
+> - 🎤 Hosts industry talks and certification prep sessions
+> - 🤝 Builds a peer learning network for AWS and AI/ML
+> - 🌐 Connects students with the global AWS builder community

@@ -1,4 +1,12 @@
+<div align="center">
+
+<img src="https://camo.githubusercontent.com/9ae63dc851654d20ba8c09ac7f6c076dff2912638033cdb0f439af6bd6652017/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39332f416d617a6f6e5f5765625f53657276696365735f4c6f676f2e737667" alt="Amazon Web Services" width="120" />
+
 # AWS Certifications & Career Guidance
+
+### Know what to aim for. Start preparing for free today.
+
+</div>
 
 ---
 
@@ -6,10 +14,12 @@
 
 AWS certifications are globally recognized credentials that:
 
-- Prove your cloud skills to employers and recruiters
-- Stand out on your resume alongside your degree
-- Validate practical, hands-on ability — not just theory
-- Open doors to internships, placements, and cloud roles
+| | |
+|---|---|
+| 📄 | Prove your cloud skills to employers and recruiters |
+| 🎓 | Stand out on your resume alongside your degree |
+| 🛠️ | Validate practical, hands-on ability — not just theory |
+| 🚪 | Open doors to internships, placements, and cloud roles |
 
 ---
 
@@ -54,14 +64,14 @@ AWS certifications are globally recognized credentials that:
 
 ## 📋 Full Certification Overview
 
-### Foundational — Start here
+### 🟢 Foundational — Start here
 
 | Certification | Code | Focus |
 |---|---|---|
 | Cloud Practitioner | CLF-C02 | Overall AWS Cloud knowledge |
 | AI Practitioner | AIF-C01 | AI, ML, and Generative AI concepts |
 
-### Associate — After 6–12 months of practice
+### 🔵 Associate — After 6–12 months of practice
 
 | Certification | Code | Focus |
 |---|---|---|
@@ -69,7 +79,7 @@ AWS certifications are globally recognized credentials that:
 | ML Engineer | MLA-C02 | Implementing and deploying ML solutions |
 | Developer | DVA-C02 | Building applications on AWS |
 
-### Professional — 2+ years experience
+### 🟣 Professional — 2+ years experience
 
 | Certification | Code | Focus |
 |---|---|---|
@@ -83,11 +93,11 @@ AWS certifications are globally recognized credentials that:
 
 | Resource | Link | What You Get |
 |---|---|---|
-| **AWS Builder Center** | <a href="https://bit.ly/450cFtS" target="_blank">bit.ly/450cFtS</a> | Sign up → verify student status → get 1 year Premium Skill Builder free + earn badges for credits and a free exam voucher |
+| **AWS Builder Center** | <a href="https://bit.ly/450cFtS" target="_blank">bit.ly/450cFtS</a> | Sign up → verify student status → 1 year Premium Skill Builder free + badges for credits + free exam voucher |
 | **AWS Skill Builder** | <a href="https://skillbuilder.aws" target="_blank">skillbuilder.aws</a> | Free courses, practice exams, learning paths |
 | **AWS Free Tier** | <a href="https://aws.amazon.com/free" target="_blank">aws.amazon.com/free</a> | Real services to practice on for free |
 
-> 💡 The fastest path to a free certification exam voucher: sign up on Builder Center → verify student status → earn 21 community badges → voucher unlocks automatically.
+> 💡 **Fastest path to a free exam voucher:** Sign up on Builder Center → verify student status → earn 21 community badges → voucher unlocks automatically.
 
 ---
 
@@ -95,6 +105,10 @@ AWS certifications are globally recognized credentials that:
 
 AWS SBG DBIT occasionally shares free exam voucher opportunities. Don't miss them — join the community and become a member of **AWS Student Builder Group DBIT** to get notifications about certifications and upcoming events.
 
+<div align="center">
+
 **Scan to join on Meetup:**
 
-<img src="../qrcode_www.meetup.com.png" alt="QR Code — Join AWS SBG DBIT on Meetup" width="180" />
+<img src="../images/qrcode_www.meetup.com.png" alt="QR Code — Join AWS SBG DBIT on Meetup" width="180" />
+
+</div>
