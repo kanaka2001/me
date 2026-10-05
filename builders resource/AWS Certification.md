@@ -1,13 +1,5 @@
 # AWS Certifications & Career Guidance
 
-**Day 2 | 12:20 PM – 12:30 PM | 10 minutes**
-
----
-
-## 🎯 What This Session Is About
-
-Know exactly which AWS certification to go after next and how to start preparing for free today.
-
 ---
 
 ## 🏆 Why Get AWS Certified?
@@ -91,9 +83,9 @@ AWS certifications are globally recognized credentials that:
 
 | Resource | Link | What You Get |
 |---|---|---|
-| **AWS Builder Center** | https://bit.ly/450cFtS | Sign up → verify student status → get 1 year Premium Skill Builder free + earn badges for credits and a free exam voucher |
-| **AWS Skill Builder** | https://skillbuilder.aws | Free courses, practice exams, learning paths |
-| **AWS Free Tier** | https://aws.amazon.com/free | Real services to practice on for free |
+| **AWS Builder Center** | <a href="https://bit.ly/450cFtS" target="_blank">bit.ly/450cFtS</a> | Sign up → verify student status → get 1 year Premium Skill Builder free + earn badges for credits and a free exam voucher |
+| **AWS Skill Builder** | <a href="https://skillbuilder.aws" target="_blank">skillbuilder.aws</a> | Free courses, practice exams, learning paths |
+| **AWS Free Tier** | <a href="https://aws.amazon.com/free" target="_blank">aws.amazon.com/free</a> | Real services to practice on for free |
 
 > 💡 The fastest path to a free certification exam voucher: sign up on Builder Center → verify student status → earn 21 community badges → voucher unlocks automatically.
 
@@ -102,3 +94,7 @@ AWS certifications are globally recognized credentials that:
 ## 🌐 Get Notified About Free Exam Vouchers
 
 AWS SBG DBIT occasionally shares free exam voucher opportunities. Don't miss them — join the community and become a member of **AWS Student Builder Group DBIT** to get notifications about certifications and upcoming events.
+
+**Scan to join on Meetup:**
+
+<img src="../qrcode_www.meetup.com.png" alt="QR Code — Join AWS SBG DBIT on Meetup" width="180" />

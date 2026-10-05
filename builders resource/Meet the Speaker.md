@@ -6,6 +6,8 @@
 
 ## Madhu T K
 
+<img src="../Speaker Image.jpeg" alt="Madhu T K — Student Builder Group Leader" width="200" />
+
 **Student Builder Group Leader**
 AWS Student Builders Group, DBIT
 
@@ -41,13 +43,15 @@ Feel free to reach out — whether you have questions from the workshop, want to
 
 | Platform | Handle | Link |
 |---|---|---|
-| 💼 LinkedIn | @madhu077 | https://linkedin.com/in/madhu077 |
-| 📸 Instagram | @madhu_kanaka_77 | https://instagram.com/madhu_kanaka_77 |
-| 🐦 X (Twitter) | @Madhutk2005 | https://x.com/Madhutk2005 |
+| 💼 LinkedIn | @madhu077 | <a href="https://linkedin.com/in/madhu077" target="_blank">linkedin.com/in/madhu077</a> |
+| 📸 Instagram | @madhu_kanaka_77 | <a href="https://instagram.com/madhu_kanaka_77" target="_blank">instagram.com/madhu_kanaka_77</a> |
+| 🐦 X (Twitter) | @Madhutk2005 | <a href="https://x.com/Madhutk2005" target="_blank">x.com/Madhutk2005</a> |
 
 ---
 
 ## 🏛️ AWS Student Builders Group — DBIT
+
+<img src="../AWS Student Builder Group_RGB_Program Icon_Blue.png" alt="AWS Student Builder Group Logo" width="130" />
 
 The **AWS Student Builders Group at DBIT** is a student-led community that brings together builders, learners, and cloud enthusiasts on campus.
 

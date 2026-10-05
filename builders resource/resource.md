@@ -12,7 +12,9 @@ Sign up on **AWS Builder Center** using the workshop link to unlock up to **$579
 
 **How to earn badges:** Publish articles, comment on content, maintain activity streaks.
 
-**Sign-up link:** https://bit.ly/450cFtS
+**Sign-up link:** <a href="https://bit.ly/450cFtS" target="_blank">https://bit.ly/450cFtS</a>
+
+<img src="../qr-builder-center.png" alt="QR Code — AWS Builder Center Sign Up" width="180" />
 
 > No credit card needed. Verification takes a few minutes via SheerID.
 
@@ -22,10 +24,10 @@ Sign up on **AWS Builder Center** using the workshop link to unlock up to **$579
 
 | Week | Suggested Action |
 |---|---|
-| **Week 1** | Start the Cloud Practitioner learning path on AWS Skill Builder |
+| **Week 1** | Start the Cloud Practitioner learning path on <a href="https://skillbuilder.aws" target="_blank">AWS Skill Builder</a> |
 | **Week 2** | Re-do the S3 + EC2 labs on your own — without the handbook |
 | **Week 3** | Build a PartyRock app and share it with your batch |
-| **Week 4** | Take a full practice exam on AWS Skill Builder |
+| **Week 4** | Take a full practice exam on <a href="https://skillbuilder.aws" target="_blank">AWS Skill Builder</a> |
 
 ---
 
@@ -33,13 +35,13 @@ Sign up on **AWS Builder Center** using the workshop link to unlock up to **$579
 
 | Platform | Why Join | Link |
 |---|---|---|
-| 📢 **WhatsApp Channel** | Updates, resources, and event news | Join |
-| 📸 **Instagram** | Workshop highlights, tips, community posts | @awssbg_dbit |
-| 💼 **LinkedIn** | Career opportunities and professional updates | Follow |
-| 🤝 **Meetup** | Upcoming events and cloud meetups | Join |
-| 📘 **Facebook** | Community posts and event announcements | Follow |
-| ✖️ **X (Twitter)** | Quick updates and AWS news | Follow |
-| 🌐 **Website** | All events and registration | https://awsevents.dbit.edu.in |
+| 📢 **WhatsApp Channel** | Updates, resources, and event news | <a href="https://whatsapp.com/channel/0029VaAOWMbKbYFVL5EFBN0C" target="_blank">Join</a> |
+| 📸 **Instagram** | Workshop highlights, tips, community posts | <a href="https://instagram.com/awssbg_dbit" target="_blank">@awssbg_dbit</a> |
+| 💼 **LinkedIn** | Career opportunities and professional updates | <a href="https://www.linkedin.com/company/aws-student-builders-group-dbit" target="_blank">Follow</a> |
+| 🤝 **Meetup** | Upcoming events and cloud meetups | <a href="https://www.meetup.com/aws-student-builders-group-dbit" target="_blank">Join</a> |
+| 📘 **Facebook** | Community posts and event announcements | <a href="https://www.facebook.com/awssbgdbit" target="_blank">Follow</a> |
+| ✖️ **X (Twitter)** | Quick updates and AWS news | <a href="https://x.com/awssbg_dbit" target="_blank">Follow</a> |
+| 🌐 **Website** | All events and registration | <a href="https://awsevents.dbit.edu.in" target="_blank">awsevents.dbit.edu.in</a> |
 
 ---
 
@@ -59,14 +61,14 @@ Sign up on **AWS Builder Center** using the workshop link to unlock up to **$579
 
 | Resource | URL |
 |---|---|
-| AWS Console | https://console.aws.amazon.com |
-| AWS Builder Center | https://builder.aws.com |
-| AWS Skill Builder | https://skillbuilder.aws |
-| Amazon SageMaker | https://console.aws.amazon.com/sagemaker |
-| Amazon Bedrock | https://console.aws.amazon.com/bedrock |
-| PartyRock | https://partyrock.aws |
-| AWS Certifications | https://aws.amazon.com/certification |
-| AWS Free Tier | https://aws.amazon.com/free |
+| AWS Console | <a href="https://console.aws.amazon.com" target="_blank">console.aws.amazon.com</a> |
+| AWS Builder Center | <a href="https://builder.aws.com" target="_blank">builder.aws.com</a> |
+| AWS Skill Builder | <a href="https://skillbuilder.aws" target="_blank">skillbuilder.aws</a> |
+| Amazon SageMaker | <a href="https://console.aws.amazon.com/sagemaker" target="_blank">console.aws.amazon.com/sagemaker</a> |
+| Amazon Bedrock | <a href="https://console.aws.amazon.com/bedrock" target="_blank">console.aws.amazon.com/bedrock</a> |
+| PartyRock | <a href="https://partyrock.aws" target="_blank">partyrock.aws</a> |
+| AWS Certifications | <a href="https://aws.amazon.com/certification" target="_blank">aws.amazon.com/certification</a> |
+| AWS Free Tier | <a href="https://aws.amazon.com/free" target="_blank">aws.amazon.com/free</a> |
 
 ---
 

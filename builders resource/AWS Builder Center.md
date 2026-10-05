@@ -1,18 +1,10 @@
 # AWS Builder Center
 
-**Day 1 | 12:10 PM – 12:20 PM | 10 minutes**
-
----
-
-## 🎯 What This Session Is About
-
-Discover the AWS Builder Center — the official community platform where you continue learning, earn badges, unlock rewards, and connect with the global AWS builder community.
-
 ---
 
 ## 🔗 What is AWS Builder Center?
 
-**builder.aws.com**
+<a href="https://builder.aws.com" target="_blank">builder.aws.com</a>
 
 AWS Builder Center is the official online home for the AWS community. It gives you:
 
@@ -63,9 +55,11 @@ As you engage with the community, you earn badges that unlock additional rewards
 
 **Your unique sign-up link for this event:**
 
-**https://bit.ly/450cFtS**
+<a href="https://bit.ly/450cFtS" target="_blank">https://bit.ly/450cFtS</a>
 
 **Or scan the QR code:**
+
+<img src="../qr-builder-center.png" alt="QR Code — AWS Builder Center Sign Up" width="200" />
 
 > 📲 **Open your phone camera and point it at the QR code — it opens the sign-up page directly.**
 
@@ -73,31 +67,7 @@ As you engage with the community, you earn badges that unlock additional rewards
 
 ## 🖥️ Follow Along Right Now
 
-1. Open **https://bit.ly/450cFtS** on your phone or laptop
+1. Open <a href="https://bit.ly/450cFtS" target="_blank">https://bit.ly/450cFtS</a> on your phone or laptop
 2. Create your **AWS Builder ID** (separate from your AWS Console account)
 3. Start your **student verification** via SheerID
 4. Once verified, explore the **Learn** section and bookmark a course
-
----
-
-## 📚 Also Explore: AWS Skill Builder
-
-Your Premium Skill Builder access (unlocked after verification) gives you:
-
-- Free digital training courses
-- Official certification exam prep
-- Hands-on labs in a real AWS environment
-- Learning paths for every role
-
-**skillbuilder.aws**
-
----
-
-## 🌐 Stay Connected
-
-| Platform | Link |
-|---|---|
-| 📢 WhatsApp Channel | Workshop updates and resources |
-| 📸 Instagram @awssbg_dbit | Event highlights and tips |
-| 💼 LinkedIn | Professional community |
-| 🤝 Meetup | Upcoming events |
