@@ -53,7 +53,7 @@ Feel free to reach out — whether you have questions from the workshop, want to
 
 <div align="center">
 
-<img src="../images/Speaker Social.png" alt="Madhu T K — Social Handles" width="400" />
+<img src="../images/Speaker Social.png" alt="Madhu T K — Social Handles" width="250" />
 
 </div>
 
